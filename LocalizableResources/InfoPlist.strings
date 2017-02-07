@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  EmptyProject
+
+  Created by Administrator on 2016/10/27.
+
+*/
+
+"CFBundleDisplayName" = "QRCodeDemo";
+
+"NSCameraUsageDescription" = "授權攝影機?";
